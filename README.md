@@ -1,4 +1,4 @@
-# File chạy ở vps khác
+# File chạy ở vps thứ hai
 ```bash
 docker run -d \
   --name zabbix-agent \
